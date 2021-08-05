@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Wed Aug  4 21:24:02 2021
+# Process ID: 1056
+# Current directory: C:/Xilinx/Vivado/2021.1/myDev/project2/project2.runs/mb1_ilmb_v10_0_synth_1
+# Command line: vivado.exe -log mb1_ilmb_v10_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mb1_ilmb_v10_0.tcl
+# Log file: C:/Xilinx/Vivado/2021.1/myDev/project2/project2.runs/mb1_ilmb_v10_0_synth_1/mb1_ilmb_v10_0.vds
+# Journal file: C:/Xilinx/Vivado/2021.1/myDev/project2/project2.runs/mb1_ilmb_v10_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source mb1_ilmb_v10_0.tcl -notrace
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP mb1_ilmb_v10_0, cache-ID = 657589416119cdac.
+INFO: [Common 17-206] Exiting Vivado at Wed Aug  4 21:24:16 2021...
